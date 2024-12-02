@@ -66,9 +66,9 @@ To Update the Topic ID:
 #### Step - 1
  Go to config.py 
 #### Step - 2
- Update MQTT_TOPIC_ID = "0701e375-77b0-490b-a437-a214e24d3438" --- currently set as this '0701e375-77b0-490b-a437-a214e24d3438'.
+ Update MQTT_TOPIC_ID = "<MQTT TOPIC ID>" --- currently set as this '0701e375-77b0-490b-a437-a214e24d3438'.
 
-   To start the Flask app, use the following command:
+   To start the rule engine, use the following command:
 
    ```bash
    python run.py
