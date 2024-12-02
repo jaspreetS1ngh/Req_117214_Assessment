@@ -78,7 +78,7 @@ To Update the Topic ID:
    ```bash
    python3 run.py
    ```
-   The application will start on `http://localhost:8000`
+  
 
    Once you run the application locally, you will see in the console successfull connection as well as shows the id which it is subscribed to.
    ![alt text](image-1.png)
