@@ -12,7 +12,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/winter-supplement-engine.git
+git clone https://github.com/jaspreetS1ngh/Req_117214_Assessment.git
 cd REQ_117214_Assessment
 ```
 
