@@ -107,7 +107,7 @@ To Update the Topic ID:
 
     To check via a mobile app, you can download MQTTool and subscribe to the topic to see input output , test shown below
     
-    ![alt text](IMG_6081.PNG)
+    ![alt text](image-2.png)
 
 
 ## Optional for now!
