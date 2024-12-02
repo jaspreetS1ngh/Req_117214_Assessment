@@ -105,10 +105,10 @@ To Update the Topic ID:
     INFO:app.mqtt_client:Received message: {'id': '123456', 'numberOfChildren': 2, 'familyComposition': 'couple', 'familyUnitInPayForDecember': True}
     INFO:app.mqtt_client:Published result: {'id': '123456', 'isEligible': True, 'baseAmount': 120.0, 'childrenAmount': 40.0, 'supplementAmount': 160.0}
 
-    To check via a mobile app, you can download MQTTool and subscribe to the topic to see input output , test shown below
+    To check via a mobile app, you can download MQTTool and subscribe to the topic to see input output , test shown below:
     
-    ![alt text](image-2.png)
-
+    
+![alt text](image-2.png)
 
 ## Optional for now!
 ## Running in Production
